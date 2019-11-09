@@ -23,6 +23,7 @@
 #         win=win1,   # win要保持一致
 #         update='append')
 #
+#buj
 
 # tr_loss=list(range(100))
 # print(tr_loss)
